@@ -36,4 +36,4 @@ This repository houses my projects, assignments, and practical implementations f
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Jesussaves-Immanuel/My-Machine-Learning-and-Ai-Thrive-Africa-Course
